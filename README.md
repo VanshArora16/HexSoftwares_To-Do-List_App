@@ -12,7 +12,7 @@ Clone the repository:
 git clone https://github.com/VanshArora16/HexSoftwares_To-Do-List_App.git
 
 # Navigate to the project directory:
-cd to-do-list-app
+cd HexSoftwares_To-Do-List_App
 
 Open index.html in your browser to start using the app.
 
